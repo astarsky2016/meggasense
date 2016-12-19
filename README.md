@@ -1,2 +1,0 @@
-# meggasense
-Pipeline dependencies
