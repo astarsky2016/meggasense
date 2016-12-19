@@ -10,13 +10,17 @@ Prerequisites: installed Newbler assebler, BLAST suite of programs, HMMER v > 3.
 
 Contact: 
 http://semgen.info, contact@semgen.info
+
 Analysis data is being stored in MongoDB, sqlite, MySQL and python ZODB OO database (stores sequence reads and all steps of subsequent analyses).
 Once set up, pipeline requires more than 1 CPU (relies on multiprocessing).
 Pipeline relies on KEGG for it's annotations. Since KEGG stopped providing it's data for free, only data from obsolete KEGG v 58 are provided!
 
 Download link for KEGG data v 58 used in meggasense pipeline:
+
 http://bioserv.pbf.hr/kegg_58_hmm.tar.gz
+
 Download link for processed CAZy data:
+
 http://bioserv.pbf.hr/cazy.tar.gz
 
 
