@@ -8,3 +8,8 @@ Prerequisites: installed Newbler assebler, BLAST suite of programs, HMMER v > 3.
 Analysis data stored in MongoDB, sqlite, MySQL and python ZODB OO database (stores sequence reads and all steps of subsequent analyses)
 Requires more than 1 CPU (relies on multiprocessing).
 Pipeline relies on KEGG for it's annotations. Since KEGG stopped providing it's data for free, only data from obsolete KEGG v 58 are provided!
+
+Download ftp for KEGG data v 58 used in meggasense pipeline:
+
+
+
