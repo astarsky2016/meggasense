@@ -6,7 +6,7 @@ Scripts and programs commited were created by SemGen Ltd. as part of "Amylomics"
 Pipeline was intended for annotation of metagenome WGS on Roche 454 platform (.sff raw data) with special emphasis on carbohydrate acting enzymes (CAZymes).
 Pipeline was tested on OS Linux Debian version 8.6!
 
-Prerequisites: installed Newbler assebler, BLAST suite of programs, HMMER v > 3.0, PfamScan and glimmer-mg. There is a series of easily obtainable python modules such as pyparsing, zodb, sqlite etc. Third party software such as glimmer-mg and PfamScan.pl (in Perl) was heavily modified and cannot be distributed as such. We can share the modified source upon direct request. In this case please contact us directly.
+Prerequisites: installed Newbler assebler, BLAST suite of programs, HMMER v > 3.0, SOLR, PfamScan and glimmer-mg. There is a series of easily obtainable python modules such as pyparsing, zodb, sqlite etc. Third party software such as glimmer-mg and PfamScan.pl (in Perl) was heavily modified and cannot be distributed as such. We can share the modified source upon direct request. In this case please contact us directly.
 
 Contact: 
 http://semgen.info, contact@semgen.info
